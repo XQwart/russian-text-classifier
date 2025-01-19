@@ -1,0 +1,11 @@
+numpy
+pandas
+pyarrow==14.0.1
+datasets==2.10.1
+torch>=2.0.0
+transformers>=4.30.0,<5.0.0
+pymorphy2==0.9.1
+nltk
+nlpaug
+sentencepiece
+scikit-learn
